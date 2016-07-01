@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
     
@@ -5,7 +6,9 @@
 
     <body>
     
-        <p>Hello</p>
+    <?php
+    echo "My first PHP script!";
+    ?>
     
     </body>
 </html>
