@@ -6,5 +6,10 @@
 .container-fluid, .container{
     padding: 0px;
 }
+
+.btn{
+    padding: 0px;
+    margin: 0px;
+}
     
 /*Main components*/
