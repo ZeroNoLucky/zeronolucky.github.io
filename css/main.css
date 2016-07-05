@@ -13,3 +13,22 @@
 }
     
 /*Main components*/
+
+.white-font{
+    color: white;
+    font-family: cursive;
+}
+
+.section-buttons{
+    background:black; 
+    height:20%; 
+    border-bottom-style: solid;
+    padding-top: 5vh; 
+    width:100%; 
+    border-radius:0px;
+    border-bottom-color: darkturquoise;
+}
+
+.section-buttons:hover{
+    background: gray;
+}
