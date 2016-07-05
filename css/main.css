@@ -32,3 +32,10 @@
 .section-buttons:hover{
     background: gray;
 }
+
+.music-options-buttons{
+    padding: 2%;
+    padding-left: 10%;
+    width: auto;
+    height: auto;
+}
